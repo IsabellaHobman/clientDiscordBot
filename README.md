@@ -1,1 +1,2 @@
 # clientDiscordBot
+Commission work I did for a client. Every hour, the discord bot is to check if someone had a required balance of a certain cryptocurrency. If they didn't, they were to be demoted in the server and, under a certain threshold, kicked. To authorise themselves, they had to send a trivial amount of money to a burner account to prove that they owned the wallet. However, the client decided not to use the server idea eventually.
